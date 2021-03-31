@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 
-Creating a new branch with switch command & simple.
+Creating a new branch with switch command and simple.
